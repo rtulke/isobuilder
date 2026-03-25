@@ -1,0 +1,4 @@
+id: 1002
+description: "Debian NetInstall — minimal, amd64, en_US, SSH + sudo"
+preseed: templates/debian_netinstall_preseed.cfg
+postinstall: templates/debian_postinstall_minimal.sh

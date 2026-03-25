@@ -1,0 +1,4 @@
+id: 1001
+description: "Debian KIOSK — Chromium/Zabbix, LXDE, autologin (ge999.naz.ch)"
+preseed: templates/debian_kiosk_preseed.cfg
+postinstall: templates/debian_kiosk_postinstall.sh
